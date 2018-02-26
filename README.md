@@ -1,4 +1,4 @@
-# _{Wacky Traveler Site}_
+# _Wacky Traveler Site_
 
 #### _JS Form Excercise for Epicodus , 02.25.2018_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This application was designed to display a number of JS qualities such as form building and branching results. The application allows  users to enter information and gather a result of their best fitted wacky vacation in the form of an image.}_
+_This application was designed to display a number of JS qualities such as form building and branching results. The application allows  users to enter information and gather a result of their best fitted wacky vacation in the form of an image._
 
 ## Setup/Installation Requirements
 
