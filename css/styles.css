@@ -1,0 +1,64 @@
+body{
+  background-image: url("http://www.scottishholidays-hamiltoncottage.co.uk/wp-content/uploads/2015/12/HHV_Oahu-island-activities_Content_Beaches_455x248_x2-1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100em;
+}
+h1{
+  color: blue;
+}
+h2{
+  color: blue;
+  cursor: pointer;
+}
+h2:hover{
+  font-style: italic;
+}
+.red{
+  background-color: red;
+  background-image: url("https://c1.staticflickr.com/5/4289/34741599323_f51e5ca65d_b.jpg");
+}
+.yellow{
+  background-color: yellow;
+  background-image: url("https://knowledgestew.com/wp-content/uploads/2016/04/Ise-Jingu.jpeg");
+}
+.blue{
+  background-color: blue;
+  background-image: url("https://www.plaidpantry.com/store232.jpg");
+}
+.office{
+  background-color: red;
+  background-image: url("https://www.cheatsheet.com/wp-content/uploads/2017/04/Creative-concept-for-travel-agency-office.jpg?x49044");
+}
+#show{
+  display: none;
+}
+#hidden{
+  display: none;
+
+}
+#guard{
+  height: 500px;
+  width: 200px;
+  cursor: pointer;
+}
+#guard:hover{
+  border: 3px solid yellow;
+  background-image: url("https://i.pinimg.com/736x/fe/8b/d4/fe8bd4f99b49eed3c26c7073a6a9151f.jpg");
+}
+#formal{
+  color: blue;
+}
+#output{
+  display: none;
+  font-size: 30px;
+  color: white;
+}
+#red{
+  display: none;
+}
+#yellow{
+  display: none;
+}
+#blue{
+  display: none;
+}
